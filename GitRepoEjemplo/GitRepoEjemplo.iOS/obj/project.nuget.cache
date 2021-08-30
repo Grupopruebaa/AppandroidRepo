@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWFfI8wnSAcb0kgybpLAKSnJA3z8yX1qW06qBOTU2UUCOM2acw7+4GOsIgWugAPkiK46ESuNqGbSf8LR3gB7cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SNK93\\Documents\\Xamarin\\AppandroidRepo\\GitRepoEjemplo\\GitRepoEjemplo.iOS\\GitRepoEjemplo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNK93\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
